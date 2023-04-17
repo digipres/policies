@@ -1,0 +1,55 @@
+# Workflow to generate a README.md from CSV. 
+name: "Create README.md"
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ] 
+  pull_request:
+    branches: [ "main" ] 
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+                    
+  csv-to-markdown:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
+      - name: convert csv to markdown
+        run: |
+          # Debug output. Lets us check our listing is correct.
+          ls $GITHUB_WORKSPACE
+
+          # Set our data variables.
+          export CSV="Digital preservation policies and strategies - policies and strategies.csv"
+          export CSV_DATA="$GITHUB_WORKSPACE/csv/$CSV"
+
+          # Debug output. Lets us check our file seems to be the right one.
+          file --mime-type "$CSV_DATA"
+
+          # REPO_BASE holds the variable for the repository we run our scripts
+          # from. Theoretically only the user and repo name changes.
+          export REPO_BASE=ross-spencer/policies-DEMO/scripts
+
+          # Retrieve our runner scripts and convert the data.
+          wget https://raw.githubusercontent.com/$REPO_BASE/convert_runner.py
+          wget https://raw.githubusercontent.com/$REPO_BASE/convert_to_md.py
+          python convert_runner.py "$CSV_DATA"
+
+          # Debug output. Provides some information about our modified file.
+          file --mime-type README.md
+      - name: commit README to repo
+        continue-on-error: true
+        run: |
+          # Git pieces. Add and convert under specific user. NB. change to a more
+          # appropriate user name for the repo. 
+          git config --global user.name 'Ross Spencer'
+          git config --global user.email 'all.along.the.watchtower2001@gmail.com'
+          git add README.md
+          git commit -m "Update digipres policies and strategies"
+          git push
