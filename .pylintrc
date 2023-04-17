@@ -1,0 +1,32 @@
+[MAIN]
+extension-pkg-whitelist=
+    pydantic, # binary module validation, Pydantic/Pylint recommendation.
+
+ignore=
+	LICENSE,
+	.pylintrc,
+
+ignore-patterns=
+	^(.+).ini$,
+	.gitignore,
+	.pre-commit-config.yaml,
+	^(.+).md$,
+	^(.+).sh$,
+    ^(.+).csv$,
+    ^(.+).png$,
+    ^(.+).toml$,
+    ^(.+).txt$,
+	^(.+).service$,
+
+ignore-paths=
+	requirements/*,
+	.github/,
+    .vscode/settings.json,
+    TODO,
+    NOTES,
+
+
+[MESSAGES CONTROL]
+
+disable =
+	C0301, 	# line-length too long, see Black documented recommendations.

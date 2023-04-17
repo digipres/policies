@@ -1,0 +1,30 @@
+repos:
+- repo: https://github.com/ambv/black
+  rev: 22.12.0
+  hooks:
+  - id: black
+    args: [--safe, --quiet]
+    language_version: python3
+- repo: https://github.com/pycqa/isort
+  rev: 5.6.4
+  hooks:
+  - id: isort
+    language_version: python3
+- repo: https://github.com/PyCQA/flake8
+  rev: 6.0.0
+  hooks:
+  - id: flake8
+    language_version: python3
+- repo: local
+  hooks:
+    - id: pylint
+      name: pylint
+      entry: pylint
+      language: python
+      language_version: python3
+      args:
+        [
+          "-rn", # Only display messages.
+          "-sn", # Don't display the pylint score.
+          "--rcfile=.pylintrc"
+        ]
