@@ -70,13 +70,14 @@ def map_fields(data: str) -> list[list[Tuple[str, str]]]:
     csvfile = io.StringIO(data)
     sheet = csv.reader(csvfile, delimiter=",", quotechar='"')
     header = None
-    formatted = []
+    mapped = []
     for idx, item in enumerate(sheet):
         if idx == 0:
-            header = item
+            header = [formatted_item.strip() for formatted_item in item]
             continue
-        formatted.append(list(zip(header, item)))
-    return formatted
+        formatted = [formatted_item.strip() for formatted_item in item]
+        mapped.append(list(zip(header, formatted)))
+    return mapped
 
 
 def _sort_list(list_: list, index=COUNTRY_INDEX) -> list[list[Tuple[str, str]]]:
@@ -85,11 +86,38 @@ def _sort_list(list_: list, index=COUNTRY_INDEX) -> list[list[Tuple[str, str]]]:
     return list_
 
 
+def _capitalize(text: str) -> str:
+    """Capitalize the first letter of a value unless it requires an
+    exception.
+    """
+    if text.lower() in ("usa",):
+        return text.upper()
+    return text.capitalize()
+
+
+def _title(text: str) -> str:
+    """Title case a value, i.e. make the first character of a sentence
+    upper case, unless it requires an exception.
+    """
+    text = text.title()
+    # NB. space, so as not to match countries like Ukraine.
+    if "Uk " in text:
+        text = text.replace("Uk ", "UK ")
+    if "Usa " in text:
+        text = text.replace("Usa ", "USA ")
+    return text
+
+
 def format_entry(item: list) -> str:
     """Format an entry as a string for output in Markdown."""
-    inst = value(item[1]).title()
-    policy_url = "Not available" if not value(item[4]) else value(item[4])
-    strat_url = "Not available" if not value(item[6]) else value(item[6])
+    unavailable: Final[str] = "Not available"
+    inst = _title(value(item[1]))
+    policy_url = unavailable if not value(item[4]) else value(item[4])
+    strat_url = unavailable if not value(item[6]) else value(item[6])
+    if policy_url != unavailable:
+        policy_url = f"[{policy_url}]({policy_url})"
+    if strat_url != unavailable:
+        strat_url = f"[{strat_url}]({strat_url})"
     metadata = f"### {inst}\n* **Policy**: {policy_url}\n* **Strategy**: {strat_url}\n"
     return metadata
 
@@ -120,13 +148,10 @@ def data_to_markdown(entries: list[list[Tuple[str, str]]]) -> str:
     entries = _sort_list(entries)
     metadata = ""
     country = None
-    for idx, item in enumerate(entries):
-        if idx == 0:
-            country = item[COUNTRY_INDEX]
-            metadata = f"{metadata}## {value(country).capitalize()}\n"
+    for item in entries:
         if item[COUNTRY_INDEX] != country:
             country = item[COUNTRY_INDEX]
-            metadata = f"{metadata}## {value(country).capitalize()}\n"
+            metadata = f"{metadata}## {_capitalize(value(country))}\n"
         more_metadata = format_entry(item)
         metadata = add_md(metadata, more_metadata)
     return metadata
