@@ -34,7 +34,7 @@ jobs:
 
           # REPO_BASE holds the variable for the repository we run our scripts
           # from. Theoretically only the user and repo name changes.
-          export REPO_BASE=ross-spencer/policies-DEMO/scripts
+          export REPO_BASE=digipres/policies/scripts
 
           # Retrieve our runner scripts and convert the data.
           wget https://raw.githubusercontent.com/$REPO_BASE/convert_runner.py
@@ -48,8 +48,8 @@ jobs:
         run: |
           # Git pieces. Add and convert under specific user. NB. change to a more
           # appropriate user name for the repo. 
-          git config --global user.name 'Ross Spencer'
-          git config --global user.email 'all.along.the.watchtower2001@gmail.com'
+          git config --global user.name 'Caylin Smith'
+          git config --global user.email 'caylinssmith@github.com'
           git add README.md
           git commit -m "Update digipres policies and strategies"
           git push
