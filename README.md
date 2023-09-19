@@ -65,9 +65,9 @@
   * [National Library Of New Zealand / Archives New Zealand](#national-library-of-new-zealand-/-archives-new-zealand)
 - [Pakistan](#pakistan)
   * [International Journal Of Scientific Knowledge](#international-journal-of-scientific-knowledge)
-- [Republic of Ireland](#republic-of-ireland)
-  * [IFI Irish Film Archive](#ifi-irish-film-archive)
-  * [James Hardiman Library, NUI Galway](#james-hardiman-library,-nui-galway)
+- [Republic of ireland](#republic-of-ireland)
+  * [Iri Irish Film Archive](#iri-irish-film-archive)
+  * [James Hardiman Library, Nui Galway](#james-hardiman-library,-nui-galway)
 - [Scotland](#scotland)
   * [Heriot-Watt Univeristy](#heriot-watt-univeristy)
   * [National Library Of Scotland](#national-library-of-scotland)
@@ -273,12 +273,12 @@
 * **Policy**: [https://www.ijsk.org/digital-preservation-policy/](https://www.ijsk.org/digital-preservation-policy/)
 * **Strategy**: Not available
 
-## Republic of Ireland
-### IFI Irish Film Archive
+## Republic of ireland
+### Iri Irish Film Archive
 * **Policy**: Not available
 * **Strategy**: [https://www.ifi.ie/wp-content/uploads/DPAS-V.2.pdf?_ga=2.250008645.293051014.1583502776-2116877818.1583502776](https://www.ifi.ie/wp-content/uploads/DPAS-V.2.pdf?_ga=2.250008645.293051014.1583502776-2116877818.1583502776)
 
-### James Hardiman Library, NUI Galway
+### James Hardiman Library, Nui Galway
 * **Policy**: [http://library.nuigalway.ie/about/policies/digitalpreservationpolicy/](http://library.nuigalway.ie/about/policies/digitalpreservationpolicy/)
 * **Strategy**: Not available
 
