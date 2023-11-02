@@ -16,6 +16,8 @@
 
 24/03/2023: THE FOLLOWING POLICIES WERE REMOVED BECAUSE THEIR URL DIDN'T RESOLVE AND INFORMATION COULDN'T BE FOUND ELSEWHERE ON THEIR WEBSITE: BORTHWICK INISITUTE FOR ARCHIVES, NORTH CAROLINA (STATE LIBRARY AND STATE ARCHIVES), UNIVERSITY OF BRADFORD, UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN, UNIVERSITY OF MASSACHUSETTS AMHERST LIBRARIES, UNIVERSITY OF NOTTINGHAM, UNIVERSITY OF SUSSEX; POLICIES AND/OR STRATEGIES AT THE FOLLOWING INSTITUTIONS WERE UPDATED: BODLEIAN LIBRARIES, CONCORDIA UNIVERSITY, DURHAM COUNTY RECORD OFFICE, GWENT ARCHIVES, LIBRARY AND ARCHIVES CANADA, NATIONAL LIBRARY OF NEW ZEALAND / ARCHIVES NEW ZEALAND, NATIONAL LIBRARY OF SCOTLAND, NEWCASTLE UNIVERSITY LIBRARY SPECIAL COLLECTIONS, ROYAL DANISH LIBRARY, ROYAL PAVILLION & MUSEUMS TRUST (BRIGHTON AND HOVE MUSEUMS), SOUTHERN METHODIST UNIVERSITY, STATE LIBRARY OF NEW SOUTH WALES; THE FOLLOWING INSTITUTIONS WERE ADDED: AMERICAN MUSEUM OF NATURAL HISTORY, DURHAM UNIVERSITY LIBRARY, HERIOT-WATT UNIVERSITY, JAMES HARIDMAN LIBRARY (NUI GALWAY), NEW YORK UNIVERSITY, UNIVERSITY COLLEGE LONDON, UNIVERSITY OF ST ANDREWS, UNIVERSITY OF WARWICK
 
+02/11/2023: NATIONAL LIBRARY OF IRELAND POLICY ADDED
+
 ## Listing
 
 - [Australia](#australia)
@@ -68,6 +70,7 @@
 - [Republic of ireland](#republic-of-ireland)
   * [Iri Irish Film Archive](#iri-irish-film-archive)
   * [James Hardiman Library, Nui Galway](#james-hardiman-library,-nui-galway)
+  * [National Library Of Ireland](#national-library-of-ireland)
 - [Scotland](#scotland)
   * [Heriot-Watt Univeristy](#heriot-watt-univeristy)
   * [National Library Of Scotland](#national-library-of-scotland)
@@ -280,6 +283,10 @@
 
 ### James Hardiman Library, Nui Galway
 * **Policy**: [http://library.nuigalway.ie/about/policies/digitalpreservationpolicy/](http://library.nuigalway.ie/about/policies/digitalpreservationpolicy/)
+* **Strategy**: Not available
+
+### National Library Of Ireland
+* **Policy**: [https://www.nli.ie/sites/default/files/2023-10/nli-digital-preservation-policy_eng.pdf](https://www.nli.ie/sites/default/files/2023-10/nli-digital-preservation-policy_eng.pdf)
 * **Strategy**: Not available
 
 ## Scotland
