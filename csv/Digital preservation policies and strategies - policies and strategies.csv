@@ -12,7 +12,7 @@ VERSION HISTORY:
 
 24/03/2023: THE FOLLOWING POLICIES WERE REMOVED BECAUSE THEIR URL DIDN'T RESOLVE AND INFORMATION COULDN'T BE FOUND ELSEWHERE ON THEIR WEBSITE: BORTHWICK INISITUTE FOR ARCHIVES, NORTH CAROLINA (STATE LIBRARY AND STATE ARCHIVES), UNIVERSITY OF BRADFORD, UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN, UNIVERSITY OF MASSACHUSETTS AMHERST LIBRARIES, UNIVERSITY OF NOTTINGHAM, UNIVERSITY OF SUSSEX; POLICIES AND/OR STRATEGIES AT THE FOLLOWING INSTITUTIONS WERE UPDATED: BODLEIAN LIBRARIES, CONCORDIA UNIVERSITY, DURHAM COUNTY RECORD OFFICE, GWENT ARCHIVES, LIBRARY AND ARCHIVES CANADA, NATIONAL LIBRARY OF NEW ZEALAND / ARCHIVES NEW ZEALAND, NATIONAL LIBRARY OF SCOTLAND, NEWCASTLE UNIVERSITY LIBRARY SPECIAL COLLECTIONS, ROYAL DANISH LIBRARY, ROYAL PAVILLION & MUSEUMS TRUST (BRIGHTON AND HOVE MUSEUMS), SOUTHERN METHODIST UNIVERSITY, STATE LIBRARY OF NEW SOUTH WALES; THE FOLLOWING INSTITUTIONS WERE ADDED: AMERICAN MUSEUM OF NATURAL HISTORY, DURHAM UNIVERSITY LIBRARY, HERIOT-WATT UNIVERSITY, JAMES HARIDMAN LIBRARY (NUI GALWAY), NEW YORK UNIVERSITY, UNIVERSITY COLLEGE LONDON, UNIVERSITY OF ST ANDREWS, UNIVERSITY OF WARWICK 
 
-
+03/11/2023: NATIONAL LIBRARY OF IRELAND POLICY ADDED, IFI TYPO FIXED
 
 
 
@@ -42,7 +42,7 @@ H,HULL HISTORY CENTRE ,ENGLAND,,http://www.hullhistorycentre.org.uk/about-us/abo
 I,INDIANA UNIVERSITY LIBRARIES ,USA,,https://libraries.indiana.edu/digital-preservation-policy,,
 I,"INTER-UNIVERSITY CONSORTIUM FOR POLITICAL AND SOCIAL RESEARCH, UNIVERSITY OF MICHIGAN",USA,,https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/policies/dpp-framework.html,,
 I,INTERNATIONAL JOURNAL OF SCIENTIFIC KNOWLEDGE ,PAKISTAN,,https://www.ijsk.org/digital-preservation-policy/,,
-I,IRI IRISH FILM ARCHIVE,REPUBLIC OF IRELAND,,,,https://www.ifi.ie/wp-content/uploads/DPAS-V.2.pdf?_ga=2.250008645.293051014.1583502776-2116877818.1583502776
+I,IFI IRISH FILM ARCHIVE,REPUBLIC OF IRELAND,,,,https://www.ifi.ie/wp-content/uploads/DPAS-V.2.pdf?_ga=2.250008645.293051014.1583502776-2116877818.1583502776
 J,"JAMES HARDIMAN LIBRARY, NUI GALWAY ",REPUBLIC OF IRELAND,,http://library.nuigalway.ie/about/policies/digitalpreservationpolicy/,,
 L,LEIBNIZ INFORMATION CENTRE FOR ECONOMICS ,GERMANY ,,https://www.zbw.eu/en/about-us/key-activities/digital-preservation/preservation-policy/,,
 L,LIBRARY AND ARCHIVES CANADA,CANADA ,,,STRATEGY FOR A DIGITAL PRESERVATION PROGRAMME,https://library-archives.canada.ca/eng/corporate/about-us/strategies-initiatives/Pages/strategy-digital-preservation-program.aspx
@@ -50,6 +50,7 @@ L,LONDON METROPOLITAN ARCHIVES,ENGLAND,,https://www.pensionsarchive.org.uk/90/te
 M,"MAUREEN AND MIKE MANSFIELD LIBRARY, UNIVERSITY OF MONTANA ",USA,,https://www.lib.umt.edu/about/policies/digital-preservation-policy.php,,
 N,NATIONAL ARCHIVES ,USA ,,,,https://www.archives.gov/preservation/electronic-records/digital-preservation-strategy
 N,NATIONAL ARCHIVES OF AUSTRALIA,AUSTRALIA ,,https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/digital-preservation-policy,,
+N,NATIONAL LIBRARY OF IRELAND,REPUBLIC OF IRELAND,,https://www.nli.ie/sites/default/files/2023-10/nli-digital-preservation-policy_eng.pdf,,
 N,NATIONAL LIBRARY OF SCOTLAND,SCOTLAND,,https://www.nls.uk/media/uo4b1zfj/digital-preservation-policy-and-plan.pdf,,
 N,NATIONAL RECORDS OF SCOTLAND ,SCOTLAND,,,,https://www.nrscotland.gov.uk/record-keeping/records-policies/digital-preservation-strategy
 N ,NATIONAL LIBRARY OF NEW ZEALAND / ARCHIVES NEW ZEALAND ,NEW ZEALAND ,,https://natlib.govt.nz/files/digital-preservation/digital-preservation-policy-manual.pdf,,https://natlib.govt.nz/files/digital-preservation/Digital_Preservation_Strategy.pdf
