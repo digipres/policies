@@ -81,6 +81,7 @@
 - [USA](#usa)
   * [American Museum Of Natural History](#american-museum-of-natural-history)
   * [Columbia University Libraries](#columbia-university-libraries)
+  * [Council For State Archivists](#council-for-state-archivists)
   * [Dartmouth College Library](#dartmouth-college-library)
   * [Fontbonne University Archives](#fontbonne-university-archives)
   * [Indiana University Libraries](#indiana-university-libraries)
@@ -100,6 +101,7 @@
   * [United Nations, Archives And Records Management](#united-nations,-archives-and-records-management)
   * [University Of Georgia Libraries](#university-of-georgia-libraries)
   * [University Of Houston](#university-of-houston)
+  * [University Of Minnesota Libraries](#university-of-minnesota-libraries)
   * [University Of Richmond](#university-of-richmond)
   * [University Of Washington Libraries](#university-of-washington-libraries)
   * [University Of Wisconsin-Madison](#university-of-wisconsin-madison)
@@ -323,6 +325,10 @@
 * **Policy**: [https://library.columbia.edu/services/preservation/dlpolicy.html](https://library.columbia.edu/services/preservation/dlpolicy.html)
 * **Strategy**: Not available
 
+### Council For State Archivists
+* **Policy**: Not available
+* **Strategy**: [https://www.statearchivists.org/research-resources/dpc-leveluproadmap/serp-strategy](https://www.statearchivists.org/research-resources/dpc-leveluproadmap/serp-strategy)
+
 ### Dartmouth College Library
 * **Policy**: [https://www.dartmouth.edu/~library/preservation/docs/dartmouth_digital_preservation_policy.pdf](https://www.dartmouth.edu/~library/preservation/docs/dartmouth_digital_preservation_policy.pdf)
 * **Strategy**: Not available
@@ -397,6 +403,10 @@
 
 ### University Of Houston
 * **Policy**: [https://libraries.uh.edu/wp-content/uploads/DigitalPreservationPolicyExternal-2018-02-revision.pdf](https://libraries.uh.edu/wp-content/uploads/DigitalPreservationPolicyExternal-2018-02-revision.pdf)
+* **Strategy**: Not available
+
+### University Of Minnesota Libraries
+* **Policy**: [https://libguides.umn.edu/dp/framework](https://libguides.umn.edu/dp/framework)
 * **Strategy**: Not available
 
 ### University Of Richmond
