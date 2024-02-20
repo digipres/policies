@@ -52,6 +52,7 @@
   * [Oxford Brookes University - Special Collections](#oxford-brookes-university---special-collections)
   * [Parliamentary Archives](#parliamentary-archives)
   * [Royal Pavillion & Museums Trust  (Brighton And Hove Museums)](#royal-pavillion-&-museums-trust--(brighton-and-hove-museums))
+  * [St. George'S University Of London](#st.-george's-university-of-london)
   * [Staffordshire County Council](#staffordshire-county-council)
   * [UK Data Archive](#uk-data-archive)
   * [University Of Bristol](#university-of-bristol)
@@ -65,6 +66,8 @@
   * [Leibniz Information Centre For Economics](#leibniz-information-centre-for-economics)
 - [New zealand](#new-zealand)
   * [National Library Of New Zealand / Archives New Zealand](#national-library-of-new-zealand-/-archives-new-zealand)
+- [Norway](#norway)
+  * [National Library Of Norway](#national-library-of-norway)
 - [Pakistan](#pakistan)
   * [International Journal Of Scientific Knowledge](#international-journal-of-scientific-knowledge)
 - [Republic of ireland](#republic-of-ireland)
@@ -227,6 +230,10 @@
 * **Policy**: [https://brightonmuseums.org.uk/wp-content/uploads/2022/07/RPMT-Digital-Preservation-Policy-2020-2025.pdf](https://brightonmuseums.org.uk/wp-content/uploads/2022/07/RPMT-Digital-Preservation-Policy-2020-2025.pdf)
 * **Strategy**: Not available
 
+### St. George'S University Of London
+* **Policy**: [https://www.sgul.ac.uk/about/governance/policies/staff-only-policies/digital-preservation](https://www.sgul.ac.uk/about/governance/policies/staff-only-policies/digital-preservation)
+* **Strategy**: Not available
+
 ### Staffordshire County Council
 * **Policy**: [https://www.staffordshire.gov.uk/Heritage-and-archives/about/Policies/Staffordshire-Archives-and-Heritage-Digital-Preservation-Policy.aspx](https://www.staffordshire.gov.uk/Heritage-and-archives/about/Policies/Staffordshire-Archives-and-Heritage-Digital-Preservation-Policy.aspx)
 * **Strategy**: Not available
@@ -272,6 +279,11 @@
 ### National Library Of New Zealand / Archives New Zealand
 * **Policy**: [https://natlib.govt.nz/files/digital-preservation/digital-preservation-policy-manual.pdf](https://natlib.govt.nz/files/digital-preservation/digital-preservation-policy-manual.pdf)
 * **Strategy**: [https://natlib.govt.nz/files/digital-preservation/Digital_Preservation_Strategy.pdf](https://natlib.govt.nz/files/digital-preservation/Digital_Preservation_Strategy.pdf)
+
+## Norway
+### National Library Of Norway
+* **Policy**: Not available
+* **Strategy**: [https://digitalpreservation-blog.nb.no/docs/strategy/nln-digipres-strategy-en/](https://digitalpreservation-blog.nb.no/docs/strategy/nln-digipres-strategy-en/)
 
 ## Pakistan
 ### International Journal Of Scientific Knowledge
