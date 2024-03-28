@@ -14,89 +14,87 @@ VERSION HISTORY:
 
 03/11/2023: NATIONAL LIBRARY OF IRELAND POLICY ADDED, IFI TYPO FIXED
 
-20/03/2024: KB NATIONAL LIBRARY OF THE NETHERLANDS POLICY ADDED
-
-",,,,,,
-,NAME OF INSTITUTION,COUNTRY ,POLICY ,POLICY URL,STRATEGY ,STRATEGY URL 
+20/03/2024: KB NATIONAL LIBRARY OF THE NETHERLANDS POLICY ADDED",,,,,,
+,NAME OF INSTITUTION,COUNTRY,POLICY,POLICY URL,STRATEGY,STRATEGY URL
 A,AMERICAN MUSEUM OF NATURAL HISTORY,USA,,https://www.amnh.org/research/research-library/digital-collections-management/digital-preservation-policy,,
-A,ARCHAEOLOGY DATA SERVICE ,ENGLAND,,https://archaeologydataservice.ac.uk/attach/ADS_Preservation_Policy_v1-7.pdf,,
-A,ARCHIVES WALES ,WALES,,https://archives.wales/2017/11/30/the-digital-preservation-policy-for-wales/,,
+A,ARCHAEOLOGY DATA SERVICE,ENGLAND,,https://archaeologydataservice.ac.uk/attach/ADS_Preservation_Policy_v1-7.pdf,,
+A,ARCHIVES WALES,WALES,,https://archives.wales/2017/11/30/the-digital-preservation-policy-for-wales/,,
 B,BODLEIAN LIBRARIES,ENGLAND,,https://www.bodleian.ox.ac.uk/sites/default/files/bodreader/documents/media/digital-preservation-policy.pdf,,
 B,BRITISH GEOLOGICAL SURVEY,ENGLAND,,https://www.bgs.ac.uk/download/bgs-digital-preservation-policy/,,
 B,BRITISH LIBRARY,ENGLAND,,,DIGITAL PRESERVATION STRATEGY,https://www.bl.uk/digital-preservation/strategy
 C,CAMBRIDGE UNIVERSITY LIBRARY,ENGLAND,DIGITAL PRESERVATION POLICY,https://doi.org/10.17863/CAM.71114,,https://www.lib.cam.ac.uk/files/str_cul_digitalpreservationstrategy.pdf
 C,CHESHIRE ARCHIVES,ENGLAND,,https://www.cheshirearchives.org.uk/record-care/digital-preservation/digital-preservation-policy.aspx,,
-C,COLUMBIA UNIVERSITY LIBRARIES ,USA,,https://library.columbia.edu/services/preservation/dlpolicy.html,,
-C,CONCORDIA UNIVERSITY,CANADA ,,,,https://www.concordia.ca/offices/archives/historical-archives/digital-archives-preservation-strategy.html
-C, COUNCIL FOR STATE ARCHIVISTS,USA ,,,,https://www.statearchivists.org/research-resources/dpc-leveluproadmap/serp-strategy
+C,COLUMBIA UNIVERSITY LIBRARIES,USA,,https://library.columbia.edu/services/preservation/dlpolicy.html,,
+C,CONCORDIA UNIVERSITY,CANADA,,,,https://www.concordia.ca/offices/archives/historical-archives/digital-archives-preservation-strategy.html
+C,COUNCIL FOR STATE ARCHIVISTS,USA,,,,https://www.statearchivists.org/research-resources/dpc-leveluproadmap/serp-strategy
 D,DARTMOUTH COLLEGE LIBRARY,USA,,https://www.dartmouth.edu/~library/preservation/docs/dartmouth_digital_preservation_policy.pdf,,
 D,DURHAM COUNTY RECORD OFFICE,ENGLAND,,https://durhamrecordoffice.org.uk/wp-content/uploads/2022/06/DigitalPreservationPolicy2021to2024.pdf,,
 D,DURHAM UNIVERSITY LIBRARY,ENGLAND,,https://www.durham.ac.uk/media/durham-university/library-/about-us/policy-documents/DUL-preservation-policy.pdf,,
 F,FONTBONNE UNIVERSITY ARCHIVES,USA,,https://library.fontbonne.edu/c.php?g=517936&p=5489195,,
 G,"GARDENS, LIBRARIES, AND MUSEUMS (GLAM), UNIVERSITY OF OXFORD",ENGLAND,,,,https://www.glam.ox.ac.uk/glam-digital-preservation-strategy-2018-2021
 G,GLOUCESTERSHIRE ARCHIVES,ENGLAND,,https://www.gloucestershire.gov.uk/media/1881/digital-preservation-policy-2018-v31.pdf,,
-G,GOVERNMENT OF CANADA (note: DP policy framework),CANADA ,,https://www.canada.ca/en/heritage-information-network/services/digital-preservation/policy-framework-development-guideline.html ,,
+G,GOVERNMENT OF CANADA (note: DP policy framework),CANADA,,https://www.canada.ca/en/heritage-information-network/services/digital-preservation/policy-framework-development-guideline.html,,
 G,GWENT ARCHIVES,WALES,,,,https://gwentarchives.gov.uk/media/0z3hyt3g/digitalpreservation.pdf
 H,HERIOT-WATT UNIVERISTY,SCOTLAND,,https://www.hw.ac.uk/documents/digital-preservation-procedures-records-creation.pdf,,
-H,HULL HISTORY CENTRE ,ENGLAND,,http://www.hullhistorycentre.org.uk/about-us/about/HHC-Digital-Preservation-Policy.pdf,,
-I,INDIANA UNIVERSITY LIBRARIES ,USA,,https://libraries.indiana.edu/digital-preservation-policy,,
+H,HULL HISTORY CENTRE,ENGLAND,,http://www.hullhistorycentre.org.uk/about-us/about/HHC-Digital-Preservation-Policy.pdf,,
+I,INDIANA UNIVERSITY LIBRARIES,USA,,https://libraries.indiana.edu/digital-preservation-policy,,
 I,"INTER-UNIVERSITY CONSORTIUM FOR POLITICAL AND SOCIAL RESEARCH, UNIVERSITY OF MICHIGAN",USA,,https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/policies/dpp-framework.html,,
-I,INTERNATIONAL JOURNAL OF SCIENTIFIC KNOWLEDGE ,PAKISTAN,,https://www.ijsk.org/digital-preservation-policy/,,
+I,INTERNATIONAL JOURNAL OF SCIENTIFIC KNOWLEDGE,PAKISTAN,,https://www.ijsk.org/digital-preservation-policy/,,
 I,IFI IRISH FILM ARCHIVE,REPUBLIC OF IRELAND,,,,https://www.ifi.ie/wp-content/uploads/DPAS-V.2.pdf?_ga=2.250008645.293051014.1583502776-2116877818.1583502776
-J,"JAMES HARDIMAN LIBRARY, NUI GALWAY ",REPUBLIC OF IRELAND,,http://library.nuigalway.ie/about/policies/digitalpreservationpolicy/,,
-K,KB NATIONAL LIBRARY OF THE NETHERLANDS ,NETHERLANDS ,,https://www.kb.nl/en/about-us/expertise/preservation-policy,,
-L,LEIBNIZ INFORMATION CENTRE FOR ECONOMICS ,GERMANY ,,https://www.zbw.eu/en/about-us/key-activities/digital-preservation/preservation-policy/,,
-L,LIBRARY AND ARCHIVES CANADA,CANADA ,,,STRATEGY FOR A DIGITAL PRESERVATION PROGRAMME,https://library-archives.canada.ca/eng/corporate/about-us/strategies-initiatives/Pages/strategy-digital-preservation-program.aspx
+J,"JAMES HARDIMAN LIBRARY, NUI GALWAY",REPUBLIC OF IRELAND,,http://library.nuigalway.ie/about/policies/digitalpreservationpolicy/,,
+K,KB NATIONAL LIBRARY OF THE NETHERLANDS,NETHERLANDS,,https://www.kb.nl/en/about-us/expertise/preservation-policy,,
+L,LEIBNIZ INFORMATION CENTRE FOR ECONOMICS,GERMANY,,https://www.zbw.eu/en/about-us/key-activities/digital-preservation/preservation-policy/,,
+L,LIBRARY AND ARCHIVES CANADA,CANADA,,,STRATEGY FOR A DIGITAL PRESERVATION PROGRAMME,https://library-archives.canada.ca/eng/corporate/about-us/strategies-initiatives/Pages/strategy-digital-preservation-program.aspx
 L,LONDON METROPOLITAN ARCHIVES,ENGLAND,,https://www.pensionsarchive.org.uk/90/text/141/files/digital-preservation-policy.pdf,,
-M,"MAUREEN AND MIKE MANSFIELD LIBRARY, UNIVERSITY OF MONTANA ",USA,,https://www.lib.umt.edu/about/policies/digital-preservation-policy.php,,
-N,NATIONAL ARCHIVES ,USA ,,,,https://www.archives.gov/preservation/electronic-records/digital-preservation-strategy
-N,NATIONAL ARCHIVES OF AUSTRALIA,AUSTRALIA ,,https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/digital-preservation-policy,,
+M,"MAUREEN AND MIKE MANSFIELD LIBRARY, UNIVERSITY OF MONTANA",USA,,https://www.lib.umt.edu/about/policies/digital-preservation-policy.php,,
+N,NATIONAL ARCHIVES,USA,,,,https://www.archives.gov/preservation/electronic-records/digital-preservation-strategy
+N,NATIONAL ARCHIVES OF AUSTRALIA,AUSTRALIA,,https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/digital-preservation-policy,,
 N,NATIONAL LIBRARY OF IRELAND,REPUBLIC OF IRELAND,,https://www.nli.ie/sites/default/files/2023-10/nli-digital-preservation-policy_eng.pdf,,
 N,NATIONAL LIBRARY OF SCOTLAND,SCOTLAND,,https://www.nls.uk/media/uo4b1zfj/digital-preservation-policy-and-plan.pdf,,
-N,NATIONAL RECORDS OF SCOTLAND ,SCOTLAND,,,,https://www.nrscotland.gov.uk/record-keeping/records-policies/digital-preservation-strategy
-N ,NATIONAL LIBRARY OF NEW ZEALAND / ARCHIVES NEW ZEALAND ,NEW ZEALAND ,,https://natlib.govt.nz/files/digital-preservation/digital-preservation-policy-manual.pdf,,https://natlib.govt.nz/files/digital-preservation/Digital_Preservation_Strategy.pdf
-N,NATIONAL LIBRARY OF NORWAY, NORWAY,,,,https://digitalpreservation-blog.nb.no/docs/strategy/nln-digipres-strategy-en/
-N,NEWCASTLE UNIVERSITY LIBRARY SPECIAL COLLECTIONS,ENGLAND,,https://www.ncl.ac.uk/mediav8/library/file-downloads/special-collections/Digital%20Preservation%20Policy.pdf ,,
+N,NATIONAL RECORDS OF SCOTLAND,SCOTLAND,,,,https://www.nrscotland.gov.uk/record-keeping/records-policies/digital-preservation-strategy
+N,NATIONAL LIBRARY OF NEW ZEALAND / ARCHIVES NEW ZEALAND,NEW ZEALAND,,https://natlib.govt.nz/files/digital-preservation/digital-preservation-policy-manual.pdf,,https://natlib.govt.nz/files/digital-preservation/Digital_Preservation_Strategy.pdf
+N,NATIONAL LIBRARY OF NORWAY,NORWAY,,,,https://digitalpreservation-blog.nb.no/docs/strategy/nln-digipres-strategy-en/
+N,NEWCASTLE UNIVERSITY LIBRARY SPECIAL COLLECTIONS,ENGLAND,,https://www.ncl.ac.uk/mediav8/library/file-downloads/special-collections/Digital%20Preservation%20Policy.pdf,,
 N,NEW YORK UNIVERSITY,USA,,https://library.nyu.edu/about/policies/digital-preservation-policy/,,
-N,NORTHERN ILLINOIS UNIVERSITY LIBRARY ,USA,,https://digital.lib.niu.edu/policy/digital-preservation/digital-preservation-policy,,
+N,NORTHERN ILLINOIS UNIVERSITY LIBRARY,USA,,https://digital.lib.niu.edu/policy/digital-preservation/digital-preservation-policy,,
 N,NORTHUMBERLAND ARCHIVES,ENGLAND,,https://northumberlandarchives.com/docs/Digital%20Preservation%20Policy%20(v2-4).pdf,,
-N,NORTHWESTERN UNIVERSITY LIBRARIES ,ENGLAND,,https://www.library.northwestern.edu/about/administration/policies/digital-preservation-policy.html,,
+N,NORTHWESTERN UNIVERSITY LIBRARIES,ENGLAND,,https://www.library.northwestern.edu/about/administration/policies/digital-preservation-policy.html,,
 O,OXFORD BROOKES UNIVERSITY - SPECIAL COLLECTIONS,ENGLAND,,https://radar.brookes.ac.uk/radar/file/fe7cd8af-d42d-4b0a-9619-18f5acb3c306/1/Digital%20Preservation%20Policy.pdf,,
 P,PARLIAMENTARY ARCHIVES,ENGLAND,,https://www.parliament.uk/documents/upload/digitalpreservationpolicy1.0.pdf,,https://www.parliament.uk/documents/upload/digital-preservation-strategy-final-public-version.pdf
 P,PRINCETON UNIVERSITY LIBRARY,USA,,https://library.princeton.edu/sites/default/files/PUL-DP-Framework_v5.pdf,,
-P,PURDUE UNIVERSITY RESEARCH REPOSITORY ,USA,,https://purr.purdue.edu/legal/digitalpreservation,,
-R,ROCHESTER INSTITUTE OF TECHNOLOGY ,USA,,https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=2795&context=article,,
+P,PURDUE UNIVERSITY RESEARCH REPOSITORY,USA,,https://purr.purdue.edu/legal/digitalpreservation,,
+R,ROCHESTER INSTITUTE OF TECHNOLOGY,USA,,https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=2795&context=article,,
 R,ROCKEFELLER ARCHIVE CENTER,USA,,https://docs.rockarch.org/digital-preservation-policy/,,
-R,"ROPER CENTER FOR PUBLIC OPINION RESEARCH, CORNELL UNIVERSITY ",USA,,https://ropercenter.cornell.edu/policies/digital-preservation-policy,,
-R,ROYAL DANISH LIBRARY,DENMARK ,,https://www.kb.dk/en/policies-and-strategies/digital-preservation-policy,,https://www.kb.dk/en/policies-and-strategies/strategy-digital-preservation
-R,ROYAL PAVILLION & MUSEUMS TRUST  (BRIGHTON AND HOVE MUSEUMS) ,ENGLAND,,https://brightonmuseums.org.uk/wp-content/uploads/2022/07/RPMT-Digital-Preservation-Policy-2020-2025.pdf,,
-S,SHROPSHIRE ARCHIVES ,USA,,https://www.shropshirearchives.org.uk/wp-content/uploads/2016/11/Digital-Preservation-Policy.pdf,,
-S,ST. GEORGE'S UNIVERSITY OF LONDON, ENGLAND,, https://www.sgul.ac.uk/about/governance/policies/staff-only-policies/digital-preservation,,
+R,"ROPER CENTER FOR PUBLIC OPINION RESEARCH, CORNELL UNIVERSITY",USA,,https://ropercenter.cornell.edu/policies/digital-preservation-policy,,
+R,ROYAL DANISH LIBRARY,DENMARK,,https://www.kb.dk/en/policies-and-strategies/digital-preservation-policy,,https://www.kb.dk/en/policies-and-strategies/strategy-digital-preservation
+R,ROYAL PAVILLION & MUSEUMS TRUST  (BRIGHTON AND HOVE MUSEUMS),ENGLAND,,https://brightonmuseums.org.uk/wp-content/uploads/2022/07/RPMT-Digital-Preservation-Policy-2020-2025.pdf,,
+S,SHROPSHIRE ARCHIVES,USA,,https://www.shropshirearchives.org.uk/wp-content/uploads/2016/11/Digital-Preservation-Policy.pdf,,
+S,ST. GEORGE'S UNIVERSITY OF LONDON,ENGLAND,,https://www.sgul.ac.uk/about/governance/policies/staff-only-policies/digital-preservation,,
 S,SOUTHERN METHODIST UNIVERSITY,USA,,https://www.smu.edu/libraries/digitalcollections/about/digitalpreservation/policy,,
-S,STAFFORDSHIRE COUNTY COUNCIL ,ENGLAND,,https://www.staffordshire.gov.uk/Heritage-and-archives/about/Policies/Staffordshire-Archives-and-Heritage-Digital-Preservation-Policy.aspx,,
-S,STATE LIBRARY OF SOUTH AUSTRALIA ,AUSTRALIA ,,https://www.slsa.sa.gov.au/sites/default/files/2019-02/Digital-Preservation-Policy-State-Library-SA.pdf,,
-S,STATE LIBRARY OF NEW SOUTH WALES ,AUSTRALIA ,,https://www.sl.nsw.gov.au/sites/default/files/digitalpreservationframework-2022-24.pdf,,
-S,STATE LIBRARY OF VICTORIA ,AUSTRALIA ,,https://www.slv.vic.gov.au/about-us/policies-guidelines/collection/digital-preservation-policy,,
+S,STAFFORDSHIRE COUNTY COUNCIL,ENGLAND,,https://www.staffordshire.gov.uk/Heritage-and-archives/about/Policies/Staffordshire-Archives-and-Heritage-Digital-Preservation-Policy.aspx,,
+S,STATE LIBRARY OF SOUTH AUSTRALIA,AUSTRALIA,,https://www.slsa.sa.gov.au/sites/default/files/2019-02/Digital-Preservation-Policy-State-Library-SA.pdf,,
+S,STATE LIBRARY OF NEW SOUTH WALES,AUSTRALIA,,https://www.sl.nsw.gov.au/sites/default/files/digitalpreservationframework-2022-24.pdf,,
+S,STATE LIBRARY OF VICTORIA,AUSTRALIA,,https://www.slv.vic.gov.au/about-us/policies-guidelines/collection/digital-preservation-policy,,
 T,TEXAS STATE UNIVERSITY,USA,,https://gato-docs.its.txstate.edu/jcr:71a65a6b-3776-4c18-b85e-a8d9a8be4743/DigPresPolicyDoc-Aug2016-1.pdf,,
 U,UK DATA ARCHIVE,ENGLAND,,https://dam.data-archive.ac.uk/controlled/cd062-preservationpolicy.pdf,,
-U,"UNITED NATIONS, ARCHIVES AND RECORDS MANAGEMENT ",USA,,https://archives.un.org/content/digital-preservation,,
-U,UNIVERSITY OF BRISTOL ,ENGLAND,,https://www.bristol.ac.uk/media-library/sites/secretary/documents/information-governance/digital-preservation-for-business-records-policy.pdf,,
+U,"UNITED NATIONS, ARCHIVES AND RECORDS MANAGEMENT",USA,,https://archives.un.org/content/digital-preservation,,
+U,UNIVERSITY OF BRISTOL,ENGLAND,,https://www.bristol.ac.uk/media-library/sites/secretary/documents/information-governance/digital-preservation-for-business-records-policy.pdf,,
 U,UNIVERSITY COLLEGE LONDON,ENGLAND,,https://www.ucl.ac.uk/library/sites/library/files/ucl_special_collections_digital_preservation_policy._docx.pdf,,
 U,UNIVERSITY OF EDINBURGH,SCOTLAND,,https://www.ed.ac.uk/information-services/library-museum-gallery/crc/digital-archives-and-preservation/digital-preservation-policy,,
 U,UNIVERSITY OF LEEDS,ENGLAND,,https://library.leeds.ac.uk/downloads/download/178/digital_preservation_policy,,
-U,UNIVERSITY OF GEORGIA LIBRARIES ,USA,,https://www.libs.uga.edu/staff/forms/digitalprespolicy2018july.pdf,,
+U,UNIVERSITY OF GEORGIA LIBRARIES,USA,,https://www.libs.uga.edu/staff/forms/digitalprespolicy2018july.pdf,,
 U,UNIVERSITY OF GLASGOW,SCOTLAND,,https://www.gla.ac.uk/myglasgow/it/policy/digitalpreservation/,,
 U,UNIVERSITY OF HOUSTON,USA,,https://libraries.uh.edu/wp-content/uploads/DigitalPreservationPolicyExternal-2018-02-revision.pdf,,
-U,UNIVERSITY OF MELBOURNE,AUSTRALIA ,,,,https://minerva-access.unimelb.edu.au/bitstream/handle/11343/45135/Digital%20Preservation%20Strategy%202014-2025%5B1%5D.pdf?sequence=1&isAllowed=y
+U,UNIVERSITY OF MELBOURNE,AUSTRALIA,,,,https://minerva-access.unimelb.edu.au/bitstream/handle/11343/45135/Digital%20Preservation%20Strategy%202014-2025%5B1%5D.pdf?sequence=1&isAllowed=y
 U,UNIVERSITY OF MINNESOTA LIBRARIES,USA,,https://libguides.umn.edu/dp/framework,,
 U,UNIVERSITY OF RICHMOND,USA,,https://consent.richmond.edu/?url=http%3A%2F%2Flibrary.richmond.edu%2fdocuments%2fdigital-preservation-policy.pdf,,
-U,UNIVERSITY OF SHEFFIELD ,ENGLAND,,http://librarysupport.shef.ac.uk/DigitalPreservationPolicy.pdf,,
+U,UNIVERSITY OF SHEFFIELD,ENGLAND,,http://librarysupport.shef.ac.uk/DigitalPreservationPolicy.pdf,,
 U,UNIVERSITY OF ST ANDREWS,SCOTLAND,,https://www.st-andrews.ac.uk/policy/library-and-museum-services/digital-preservation-policy.pdf,,
 U,UNIVERSITY OF WARWICK,ENGLAND,,https://warwick.ac.uk/services/sim/policies/information-governance/ig04/,,
 U,UNIVERSITY OF WASHINGTON LIBRARIES,USA,,https://www.lib.washington.edu/preservation/preservation_services/digitization-and-digital-preservation/digital-preservation-policy,,
 U,UNIVERSITY OF WESTMINSTER,ENGLAND,,https://www.westminster.ac.uk/sites/default/public-files/general-documents/Appendix-9-Digital-Preservation-Policy.pdf,,
-U,UNIVERSITY OF WISCONSIN-MADISON ,USA,,https://www.library.wisc.edu/archives/archives/our-collections-2/online-collections/web-and-born-digital-policy-and-procedures/,,
-V,VIRGINIA TECH ,USA,,https://guides.lib.vt.edu/c.php?g=764258&p=5837333,,
-W,WELLCOME COLLECTION ,ENGLAND,,https://wellcomecollection.cdn.prismic.io/wellcomecollection%2F2dc3ccc0-02d6-47b5-9b9e-241f2bc22d86_digital+preservation+policy.pdf,,
+U,UNIVERSITY OF WISCONSIN-MADISON,USA,,https://www.library.wisc.edu/archives/archives/our-collections-2/online-collections/web-and-born-digital-policy-and-procedures/,,
+V,VIRGINIA TECH,USA,,https://guides.lib.vt.edu/c.php?g=764258&p=5837333,,
+W,WELLCOME COLLECTION,ENGLAND,,https://wellcomecollection.cdn.prismic.io/wellcomecollection%2F2dc3ccc0-02d6-47b5-9b9e-241f2bc22d86_digital+preservation+policy.pdf,,
 Y,YALE UNIVERSITY LIBRARY,USA,,https://web.library.yale.edu/sites/default/files/files/YUL%20Digital%20Preservation%20Policy%20Framework%20V1%200.pdf,,
-Y,YORK UNIVERSITY LIBRARY,CANADA ,,https://digital.library.yorku.ca/tags/digital-preservation-policy,,
+Y,YORK UNIVERSITY LIBRARY,CANADA,,https://digital.library.yorku.ca/tags/digital-preservation-policy,,
