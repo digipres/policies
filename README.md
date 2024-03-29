@@ -18,6 +18,8 @@
 
 03/11/2023: NATIONAL LIBRARY OF IRELAND POLICY ADDED, IFI TYPO FIXED
 
+20/03/2024: KB NATIONAL LIBRARY OF THE NETHERLANDS POLICY ADDED
+
 ## Listing
 
 - [Australia](#australia)
@@ -64,6 +66,8 @@
   * [Wellcome Collection](#wellcome-collection)
 - [Germany](#germany)
   * [Leibniz Information Centre For Economics](#leibniz-information-centre-for-economics)
+- [Netherlands](#netherlands)
+  * [Kb National Library Of The Netherlands](#kb-national-library-of-the-netherlands)
 - [New zealand](#new-zealand)
   * [National Library Of New Zealand / Archives New Zealand](#national-library-of-new-zealand-/-archives-new-zealand)
 - [Norway](#norway)
@@ -273,6 +277,11 @@
 ## Germany
 ### Leibniz Information Centre For Economics
 * **Policy**: [https://www.zbw.eu/en/about-us/key-activities/digital-preservation/preservation-policy/](https://www.zbw.eu/en/about-us/key-activities/digital-preservation/preservation-policy/)
+* **Strategy**: Not available
+
+## Netherlands
+### Kb National Library Of The Netherlands
+* **Policy**: [https://www.kb.nl/en/about-us/expertise/preservation-policy](https://www.kb.nl/en/about-us/expertise/preservation-policy)
 * **Strategy**: Not available
 
 ## New zealand
