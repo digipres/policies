@@ -20,7 +20,7 @@
 
 20/03/2024: KB NATIONAL LIBRARY OF THE NETHERLANDS POLICY ADDED
 
-29/07/2026: REMOVED CSV-TO-MARKDOWN WORKFLOW (https://github.com/digipres/policies/issues/10). MERGED ARCHIVES NEW ZEALAND POLICY UPDATE (https://github.com/digipres/policies/pull/7).
+29/07/2026: REMOVED CSV-TO-MARKDOWN WORKFLOW (https://github.com/digipres/policies/issues/10). MERGED ARCHIVES NEW ZEALAND POLICY UPDATE (https://github.com/digipres/policies/pull/7). ADD TRINITY COLLEGE DUBLIN.
 
 ## Listing <!-- omit from toc -->
 
@@ -81,6 +81,7 @@
   - [Ifi Irish Film Archive](#ifi-irish-film-archive)
   - [James Hardiman Library, Nui Galway](#james-hardiman-library-nui-galway)
   - [National Library Of Ireland](#national-library-of-ireland)
+  - [Trinity College Dublin](#trinity-college-dublin)
 - [Scotland](#scotland)
   - [Heriot-Watt Univeristy](#heriot-watt-univeristy)
   - [National Library Of Scotland](#national-library-of-scotland)
@@ -316,6 +317,10 @@
 
 ### National Library Of Ireland
 * **Policy**: [https://www.nli.ie/sites/default/files/2023-10/nli-digital-preservation-policy_eng.pdf](https://www.nli.ie/sites/default/files/2023-10/nli-digital-preservation-policy_eng.pdf)
+* **Strategy**: Not available
+
+### Trinity College Dublin
+* **Policy**: [https://www.tcd.ie/media/tcd/about/policies/pdfs/Library-Digital-Preservation-Policy.pdf](https://www.tcd.ie/media/tcd/about/policies/pdfs/Library-Digital-Preservation-Policy.pdf)
 * **Strategy**: Not available
 
 ## Scotland
