@@ -20,7 +20,7 @@
 
 20/03/2024: KB NATIONAL LIBRARY OF THE NETHERLANDS POLICY ADDED
 
-29/07/2026: REMOVED CSV-TO-MARKDOWN WORKFLOW (https://github.com/digipres/policies/issues/10). MERGED ARCHIVES NEW ZEALAND POLICY UPDATE (https://github.com/digipres/policies/pull/7). ADD TRINITY COLLEGE DUBLIN.
+29/07/2026: REMOVED CSV-TO-MARKDOWN WORKFLOW (https://github.com/digipres/policies/issues/10). MERGED ARCHIVES NEW ZEALAND POLICY UPDATE (https://github.com/digipres/policies/pull/7). ADD TRINITY COLLEGE DUBLIN (https://github.com/digipres/policies/pull/11).
 
 ## Listing <!-- omit from toc -->
 
