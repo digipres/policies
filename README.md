@@ -285,7 +285,10 @@
 * **Strategy**: Not available
 
 ## New zealand
-### National Library Of New Zealand / Archives New Zealand
+### Archives New Zealand 
+* **Statement/Strategy**:
+[https://www.archives.govt.nz/about-us/our-work/preservation/digital-preservation/digital-preservation-statement](https://www.archives.govt.nz/about-us/our-work/preservation/digital-preservation/digital-preservation-statement) 
+### National Library Of New Zealand
 * **Policy**: [https://natlib.govt.nz/files/digital-preservation/digital-preservation-policy-manual.pdf](https://natlib.govt.nz/files/digital-preservation/digital-preservation-policy-manual.pdf)
 * **Strategy**: [https://natlib.govt.nz/files/digital-preservation/Digital_Preservation_Strategy.pdf](https://natlib.govt.nz/files/digital-preservation/Digital_Preservation_Strategy.pdf)
 
