@@ -22,6 +22,8 @@
 
 29/07/2026: REMOVED CSV-TO-MARKDOWN WORKFLOW (https://github.com/digipres/policies/issues/10). MERGED ARCHIVES NEW ZEALAND POLICY UPDATE (https://github.com/digipres/policies/pull/7). ADD TRINITY COLLEGE DUBLIN (https://github.com/digipres/policies/pull/11).
 
+31/07/2026: RESTORED CSV VERSION AND UPDATED/SYNCHRONISED CONTENT.
+
 ## Listing <!-- omit from toc -->
 
 - [Australia](#australia)
