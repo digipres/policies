@@ -292,7 +292,7 @@
 
 ## Netherlands
 ### Kb National Library Of The Netherlands
-* **Policy**: [Digital preservation policy of the KB](https://www.kb.nl/en/about-us/expertise/preservation-policy)
+* **Policy**: [Digital preservation policy of the KB](https://www.kb.nl/en/file-download/download/public/10361)
 * **Strategy**: [Preservation plan 2025-2028](https://www.kb.nl/en/file-download/download/public/10361)
 
 ## New zealand
